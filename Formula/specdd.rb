@@ -1,8 +1,8 @@
 class Specdd < Formula
   desc "CLI tool for working with SpecDD workflows"
   homepage "https://specdd.ai"
-  url "https://registry.npmjs.org/specdd/-/specdd-1.0.1.tgz"
-  sha256 "1f456217ebb25253fa804d64a3f7be23bbecb7089ef82d0c4c201ab9b6d67be6"
+  url "https://registry.npmjs.org/specdd/-/specdd-1.1.0.tgz"
+  sha256 "e49eb54b4d6e4cdbde6ad5e7a960c99acdae2e6fa12021621700f3b5c64370a9"
   license "Apache-2.0"
 
   livecheck do
